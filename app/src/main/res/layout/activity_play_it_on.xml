@@ -19,13 +19,13 @@
             android:layout_height="match_parent">
 
 
-            <ImageView
-                android:id="@+id/imageView"
-                android:layout_width="200dp"
-                android:layout_height="200dp"
-                android:layout_alignParentTop="true"
-                android:layout_centerHorizontal="true"
-                android:src="@drawable/javas" />
+            <!--  <ImageView
+                  android:id="@+id/imageView"
+                  android:layout_width="200dp"
+                  android:layout_height="200dp"
+                  android:layout_alignParentTop="true"
+                  android:layout_centerHorizontal="true"
+                  android:src="@drawable/javas" /> -->
 
             <TextView
                 android:id="@+id/textView1"
@@ -36,7 +36,7 @@
                 android:layout_below="@+id/imageView"
                 android:text="@string/playItOn_description"
                 android:textColor="#fefcfc"
-                android:textSize="15dp" />
+                android:textSize="18dp" />
 
 
             <TextView

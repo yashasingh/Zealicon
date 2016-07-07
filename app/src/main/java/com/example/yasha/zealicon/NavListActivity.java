@@ -19,8 +19,8 @@ public class NavListActivity extends Activity {
             "Z-Wars"
     };
     Integer[] imageId = {
-            R.drawable.batman,
-            R.drawable.hulk,
+            R.drawable.batman,                          //images corresponding to different events will be present against
+            R.drawable.hulk,                            //the respective names in the list.
             R.drawable.wolverine,
             R.drawable.ironman,
             R.drawable.spiderman,

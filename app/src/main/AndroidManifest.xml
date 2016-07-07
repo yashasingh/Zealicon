@@ -24,7 +24,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".Coderz" />
-        <activity android:name=".PlayItOn"></activity>
+        <activity android:name=".PlayItOn" />
+        <activity android:name=".AboutZealicon" />
+        <activity android:name=".Team"></activity>
     </application>
 
 </manifest>

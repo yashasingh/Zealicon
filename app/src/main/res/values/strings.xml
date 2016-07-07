@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Zealicon</string>
     <string name="button_send">Let\'s Start It!</string>
+
     <string name="coderz_description">JAVA DEBUGGING  So you love coffee and aware of java cup?But what if your taste get bitter by some difficulty , than you might need to change your taste ?Or enjoy the joyful ride of Java Debugging. DESCRIPTION  Java Debugging is a technical event, will be conducted in following two phases.Students can participate individually in this event. In First phase there will be a quiz based on java programing langauge. those who qualifie first phase will move to second phase , which will have 5 java questions with bugs, participants have to debug them and upload the correct solution.  RULES
         1. No open sources are allowed
         2. Altering of questions are not allowed
@@ -20,10 +21,20 @@ RULES
 3. A Forum would be set up in Facebook to encourage discussions during the event.</string>
     <string name="playItOn_description">QUINNACLE
 
-It is a hardcore quizzing event that would consist of two rounds. The prelims round would be a paper-pen round and each team would consist of two participants. Top 5 teams would be selected for the final round which would be a proper stage quiz and where the decision of the quizmaster would be considered as final.</string>
+It is a hardcore quizzing event that would consist of two rounds. The prelims round would be a paper-pen round and each team would consist of two participants.
+        Top 5 teams would be selected for the final round which would be a proper stage quiz and where the decision of the quizmaster would be considered as final.</string>
+
+
+ <string name="about_description">ABOUT ZEALICON \'16
+
+Zealicon is the annual techno-cultural festival of JSSATE, Noida. Dedicated to the celebration of creativity and science, it is a stimulating event brimming with youthful dynamism. It transforms the campus into a veritable kaleidoscope of people. Involving multifarious exciting events from technical scratch to cultural zeal. A platform for all the creative minds to express their ideas in the form of events including band performances, discussions, film screenings that are spread over three days. Apart from the exuberant cultural events, Zealicon is also known for its mind boggling technical events that creates an ambience for the technocrats.
+
+Zealicon 2016 will cover the aspects of hysterical face of literature along with popular arts, science and technology.</string>
+
+
     <string name="Events">EVENTS</string>
     <string name="About">ABOUT</string>
-    <string name="Reach">REACH</string>
+    <string name="Vedio">VEDIO</string>
     <string name="Team">TEAM</string>
     <string name="Sponsors">SPONSORS</string>
 </resources>
