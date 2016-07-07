@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Zealicon</string>
+    <string name="button_send">Let\'s Start It!</string>
+    <string name="coderz_description">JAVA DEBUGGING  So you love coffee and aware of java cup?But what if your taste get bitter by some difficulty , than you might need to change your taste ?Or enjoy the joyful ride of Java Debugging. DESCRIPTION  Java Debugging is a technical event, will be conducted in following two phases.Students can participate individually in this event. In First phase there will be a quiz based on java programing langauge. those who qualifie first phase will move to second phase , which will have 5 java questions with bugs, participants have to debug them and upload the correct solution.  RULES
+        1. No open sources are allowed
+        2. Altering of questions are not allowed
+        3. Two Participants can not communicate with each other during the event
+        4. If a participant is eliminated can not enter to this event again
+    </string>
+   <string name="sherlock_description"> SHERLOCKED
+
+The East Wind is Coming!!!
+DESCRIPTION
+
+Sherlocked is a fervent online event, where the participant has to solve the clues to reach the thief, in 72 hours. Keep solving the mysteries, reach the thief as soon as possible to win the prize.
+RULES
+
+1. It is an individual event.
+2. Candidates are requested not to use an alias while registering for this event.
+3. A Forum would be set up in Facebook to encourage discussions during the event.</string>
+    <string name="Events">EVENTS</string>
+    <string name="About">ABOUT</string>
+    <string name="Reach">REACH</string>
+    <string name="Team">TEAM</string>
+    <string name="Sponsors">SPONSORS</string>
+</resources>
