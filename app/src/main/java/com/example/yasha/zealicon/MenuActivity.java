@@ -15,20 +15,25 @@ public class MenuActivity extends AppCompatActivity {
         setContentView(R.layout.activity_menu);
 
         Button n = (Button) findViewById(R.id.button);
-//        Typeface typeface = Typeface.createFromAsset(getAssets(), "Helv Neue 67 Med Cond.ttf");
         n.setText("show");
-//        n.setTypeface(typeface);
+
 
     }
 
+    /**
+     * This function opens the events navigation activity
+     *
+     * @param view
+     */
     public void openEvents(View view) {
         Intent intent = new Intent(this, NavListActivity.class);
         startActivity(intent);
     }
 
-
-    //to make a button open a link
-    //the function name openlink is referenced in the button android:onClick="functionName"
+    /**
+     * This function opens a url in the an intent
+     * @param view
+     */
     public void openLink(View view) {
         Uri uri = Uri.parse("http://www.google.com"); // missing 'http://' will cause crashed
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
