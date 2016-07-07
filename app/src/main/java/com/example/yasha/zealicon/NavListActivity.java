@@ -45,7 +45,7 @@ public class NavListActivity extends Activity {
                         startActivity(coderzActivity);
                         break;
                     case 1:
-                        Intent playItOnActivity = new Intent(NavListActivity.this, Coderz.class);
+                        Intent playItOnActivity = new Intent(NavListActivity.this, PlayItOn.class);
                         startActivity(playItOnActivity);
                         break;
                     case 2:
