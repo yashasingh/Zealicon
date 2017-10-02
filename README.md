@@ -20,10 +20,10 @@ ArrayAdapter is used for listview of objects.
 onClick and OnClickListener functions used to recieve command when a button is pressed.
 
 Types of button used 
--simple button 
--ImageButton
--Button with text 
--button with text and image
+* simple button 
+* ImageButton
+* Button with text 
+* button with text and image
 
 
 
